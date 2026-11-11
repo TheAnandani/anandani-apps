@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "file": "simpleexplorer.apk",
-  "sha256": "19ce62e065d839066c5608626fa3b9d421b78353902c02abda8ea138f33c3041",
-  "size": 24560426,
-  "notes": "Fixes photos not showing in Images on a newly installed app.",
+  "sha256": "51ce7b321bbb1fef9ce58d352592763dd085713cf619b6a90eb77a4145324dfd",
+  "size": 24564582,
+  "notes": "New and deleted files now show up straight away, without going back.",
   "date": "11 November 2026"
 }
