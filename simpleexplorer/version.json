@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "file": "simpleexplorer.apk",
-  "sha256": "1c297c18b347c72bffcec2fe667ce39251af5faf8f9227a5287d0942a432baf6",
-  "size": 24560990,
-  "notes": "Photos and albums open much faster. USB drives now work. The app now tells you when a new version is ready.",
+  "sha256": "19ce62e065d839066c5608626fa3b9d421b78353902c02abda8ea138f33c3041",
+  "size": 24560426,
+  "notes": "Fixes photos not showing in Images on a newly installed app.",
   "date": "11 November 2026"
 }
