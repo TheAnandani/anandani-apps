@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
+  "versionCode": 5,
+  "versionName": "2.3",
   "file": "simpleimage.apk",
-  "sha256": "4c773e1a7553a4bb5d1b4b02ba67d18370eceb56447037eaaf8b6f0817b590d8",
-  "notes": "New easy file picker with big pictures of your photos and PDFs.\nPDF to JPG can now save into a folder you choose, always in high quality.\nThe app now tells you when a new version is ready.",
+  "sha256": "b01c3d5e63f1de47f1c1f4b3161dfa558141bb43e875b4dea637b023ec629f97",
+  "notes": "USB drives: plug in a USB drive and choose photos and PDFs from it, or save pictures onto it.\nIn the file picker, All folders is now right next to Recent.",
   "date": "11 November 2026"
 }
